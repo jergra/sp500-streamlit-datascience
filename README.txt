@@ -10,10 +10,10 @@ This web app retrieves, from wikipedia and yfinance, basic information
 and data for the S&P500 companies, and displays them on a streamlit website.
 
 Launch the web app:
+    https://jergra-sp500-streamlit-datascience-sp500-app-b5imga.streamlitapp.com/
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jergra-sp500-streamlit-datascience-sp500-app-b5imga.streamlitapp.com/)
-
-Local start: streamlit run sp500-app.py
+Local start: 
+    streamlit run sp500-app.py
 
 Update:
     git add .
