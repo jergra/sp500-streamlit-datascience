@@ -16,6 +16,6 @@ Launch the web app:
 Local start: streamlit run sp500-app.py
 
 Update:
-    git add .
-    git commit -m 'message'
-    git push
+git add .
+git commit -m 'message'
+git push
